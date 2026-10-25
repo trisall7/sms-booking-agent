@@ -1,0 +1,19 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build output
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+coverage.*
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
