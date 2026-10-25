@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Trisall7/sms-booking-agent/internal/booking"
+	"github.com/trisall7/sms-booking-agent/internal/booking"
 )
 
 type state int

@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Trisall7/sms-booking-agent/internal/sms"
+	"github.com/trisall7/sms-booking-agent/internal/sms"
 )
 
 func main() {

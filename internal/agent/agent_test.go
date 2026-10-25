@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Trisall7/sms-booking-agent/internal/booking"
+	"github.com/trisall7/sms-booking-agent/internal/booking"
 )
 
 var monday = time.Date(2026, 10, 26, 9, 0, 0, 0, time.UTC)

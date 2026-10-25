@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Trisall7/sms-booking-agent/internal/agent"
-	"github.com/Trisall7/sms-booking-agent/internal/booking"
+	"github.com/trisall7/sms-booking-agent/internal/agent"
+	"github.com/trisall7/sms-booking-agent/internal/booking"
 )
 
 func main() {
